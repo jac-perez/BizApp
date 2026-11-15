@@ -18,7 +18,6 @@ Inventory · Sales & POS · CRM · Procurement · Finance · Accounting · HR ·
 |---|---|
 | **Run it** | [Quick start](#quick-start) — two commands |
 | **Be walked through it** | **[docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md)** — step-by-step, what to click and why |
-| **See the pitch** | **[docs/BIASHARA-Pitch-Deck.html](docs/BIASHARA-Pitch-Deck.html)** — open in a browser, arrow keys to navigate |
 | **Judge the engineering** | **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — decisions and trade-offs |
 | **Ship it** | **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** — Docker image and Render blueprint |
 | **Poke the API** | http://localhost:8080/swagger-ui.html — 65 endpoints, live |
@@ -91,9 +90,9 @@ screens; sign in as the owner and it is the whole platform.
 
 | Email | Password | Role | Permissions |
 |---|---|---|---|
-| `owner@biashara.demo` | `Owner@123` | Business Owner | **61** |
-| `manager@biashara.demo` | `Manager@123` | General Manager | **31** |
-| `cashier@biashara.demo` | `Cashier@123` | POS Cashier | **7** |
+| `owner@biz.demo` | `Owner@123` | Business Owner | **61** |
+| `manager@biz.demo` | `Manager@123` | General Manager | **31** |
+| `cashier@biz.demo` | `Cashier@123` | POS Cashier | **7** |
 
 ### The rest
 
